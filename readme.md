@@ -1,14 +1,15 @@
 # Docker & Kubernetes Training
 
-[BAZTechKnow](https://baztechknow.com/) is conducting a **Docker and Kubernetes** Specialized Training with two students only and now adding another guy who's qualified and selected on _merit_. <br>
-If you think, you are the one to deserve **Schloarship of 50% discount** and be a part of this specialized training. 
+[BAZTechKnow](https://baztechknow.com/) is conducting a **Docker and Kubernetes** Specialized Training with two students only and now adding another guy who's qualified and selected on _merit_. <br> <br>
+If you think, you are the one to deserve **Schloarship of 50% discount** and be a part of this training.
+
 <br>
 Please share your working and your name, WhatsApp and email address in a file named as your name <br>
 
 Hint:  Fork , Branch, File,  PR 
 
 Note:
-Questions are well defined, please assume if you thing anything is missing 
+Questions are well defined, please assume & mention if you think anything is missing 
 
 Here are three questions to evaluate the candidate's skills in Linux, networking, and GitHub:
 
