@@ -1,19 +1,18 @@
 # Docker & Kubernetes Training
 
-[BAZTechKnow](https://baztechknow.com/) is conducting a **Docker and Kubernetes** Specialized Training with two students only and now adding another guy who's qualified and selected on _merit_. <br> <br>
+[BAZTechKnow](https://baztechknow.com/) is conducting a **Docker and Kubernetes** Specialized Training with two students only and now adding another one who's qualified and selected on _merit_. <br> <br>
 If you think, you are the one to deserve **Schloarship of 50% discount** and be a part of this training.
 
 <br>
 Please share your working and your name, WhatsApp and email address in a file named as your name <br>
 
-Hint:  Fork , Branch, File,  PR 
+Hint:  _Fork , Branch, File,  PR _
 
-Note:
-Questions are well defined, please assume & mention if you think anything is missing 
+**Note**: Questions are well defined, please assume & mention if you think anything is missing 
 
 Here are three questions to evaluate the candidate's skills in Linux, networking, and GitHub:
 
-1. Why do you get this Scholarship?
+1. Why do you get this Scholarship? Share your thoughts in few lines 
 
 ## Linux
 2. A Linux system administrator wants to ensure that a specific service starts automatically after a system reboot. How to achieve this?
@@ -40,3 +39,7 @@ Covering Docker & Kubernetes in depth with theory and Hands on Lab , See details
 - TA Support (Optional)
 
 Total Price is $500, For Scholarship price would be **$247** (=70,024.50 Pakistan Rupee) which is 52% saving
+
+If you are selected, we will give you two classes recording prior our regular class (this weekend, 28th June)
+
+Good Luck 🤞 
