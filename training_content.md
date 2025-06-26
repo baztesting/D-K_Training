@@ -45,5 +45,5 @@
 
 
 ### Instructor 
-- Facilitator: Bashir Ahmed Zeeshan -  A Technical Training Specialist is a Certified Kubernetes Application Developer (CKAD), and Multi- Cloud Enthusiast with multiple certifications on his 
-badge
+- Facilitator: [Bashir Ahmed Zeeshan](https://www.linkedin.com/in/bashirahmedzeeshan/) -  A Technical Training Specialist is a Certified Kubernetes Application Developer (CKAD), and Multi- Cloud Enthusiast with multiple certifications on his badge
+- TA: Syed Zain Rashid - Data Center Engineer, B.E Electronics graduated from NEDUET. Completed certifications in Linux, Git, Docker, and Kubernetes.
