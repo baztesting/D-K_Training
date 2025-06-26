@@ -32,6 +32,6 @@ These questions will give us an idea of the candidate's Linux, networking, and G
 
 
 ### Training Details :
-Covering Docker & Kubernetes in depth with theory and Hands on Lab
+Covering Docker & Kubernetes in depth with theory and Hands on Lab , See details [here](https://github.com/baztesting/D-K_Training/blob/main/training_content.md) 
 
 Total Price is $500, For Scholarship price would be $247 (=70,024.50 Pakistan Rupee) which is 52% saving
