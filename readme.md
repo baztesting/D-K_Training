@@ -1,7 +1,9 @@
 # Docker & Kubernetes Training
 
 [BAZTechKnow](https://baztechknow.com/) is conducting a Docker and Kubernetes training with two students and now adding another guy who's qualified and selected on merit.
-Please revert back with your answers and your name, WhatsApp and email address. <br>
+Please share your working and your name, WhatsApp and email address. <br>
+Hint: Fork --> PR 
+
 Note:
 Questions are well defined, please assume if you thing anything is missing 
 
