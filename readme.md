@@ -38,7 +38,7 @@ Covering Docker & Kubernetes in depth with theory and Hands on Lab , See details
 - LMS & Class Recording
 - TA Support (Optional)
 
-Total Price is $500, For Scholarship price would be **$247** (=70,024.50 Pakistan Rupee) which is 52% saving
+For Scholarship price would be **$247** (=70,024.50 Pakistan Rupee) 
 
 If you are selected, we will give you two classes recording prior our regular class (this weekend, 28th June)
 
